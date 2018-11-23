@@ -6,3 +6,8 @@ QtGuiApplication1::QtGuiApplication1(QWidget *parent)
 {
 	ui.setupUi(this);
 }
+
+void QtGuiApplication1::on_okButton_clicked()
+{
+	assert(0);
+}

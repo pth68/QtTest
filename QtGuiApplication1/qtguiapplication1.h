@@ -12,4 +12,7 @@ public:
 
 private:
 	Ui::QtGuiApplication1Class ui;
+
+private slots:
+	void on_okButton_clicked();
 };
